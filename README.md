@@ -11,3 +11,4 @@ right now I recommend using something like 1000x1000 as your size beause this is
 erase the custom CSS because I wrote some custom CSS or write your own CSS
   the custom css will hide the text
   this is bad
+as currently written, the countdown will fit in an 868x288 size box in OBS
