@@ -5,10 +5,17 @@ If you don't want to host it yourself you're welcome to use the one I'm hosting 
 
 # installation
 Add as a browser source to OBS
-look it up if you don't know how to do that
+
+  look it up if you don't know how to do that
+
 paste in my URL above or your own URL if you're hosting it yourself
+
 right now I recommend using something like 1000x1000 as your size beause this is really really big
+
 erase the custom CSS because I wrote some custom CSS or write your own CSS
+
   the custom css will hide the text
+  
   this is bad
+  
 as currently written, the countdown will fit in an 868x288 size box in OBS
