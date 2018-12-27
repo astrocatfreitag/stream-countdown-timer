@@ -10,7 +10,7 @@ Add as a browser source to OBS
 
 paste in my URL above or your own URL if you're hosting it yourself
 
-right now I recommend using something like 1000x1000 as your size beause this is really really big
+as written this fits into OBS in an 850x245 box. FPS should be fine at 30.
 
 erase the custom CSS because I wrote some custom CSS or write your own CSS
 
