@@ -1,5 +1,5 @@
 var seconds = 0;
-var interval = Math.floor(Math.random() * 60);*
+var interval = Math.floor(Math.random() * 60);
 var minute = Math.floor(Math.random() * 60);
 var padMinute = String("00" + minute).slice(-2);
 
