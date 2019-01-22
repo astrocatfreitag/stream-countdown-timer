@@ -18,5 +18,7 @@ erase the custom CSS because I wrote some custom CSS or write your own CSS
   
   this is bad
   
+you can also just download the files and edit to your liking and add the HTML file as a local file in the OBS browser source options.
+
 as currently written, the countdown will fit in an 868x288 size box in OBS
 Chrome says the source is actually 864x326, this is the size I use
